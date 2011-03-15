@@ -1,0 +1,7 @@
+/* line 3, ../../app/stylesheets/style.scss */
+#wrapper {
+  width: 950px;
+  margin: 0 auto;
+  overflow: hidden;
+  *zoom: 1;
+}
